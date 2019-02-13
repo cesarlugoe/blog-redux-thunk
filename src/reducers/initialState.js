@@ -1,6 +1,7 @@
 
 export default {
    posts: [],
+   users: [],
 
 }
 
